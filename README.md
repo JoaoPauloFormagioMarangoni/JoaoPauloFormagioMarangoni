@@ -20,7 +20,7 @@
 
 ## Sobre mim
 
-Atualmente trabalho como **Técnico de Informática** e estou estudando para me tornar um **Quality Assurance**, estou aprofundando meus conhecimentos em **testes de software, automação, APIs, SQL**, buscando unir minha experiência com tecnologia ao meu objetivo de atuar profissionalmente como QA, meu objetivo é me tornar um profissional cada vez mais completo em **Qualidade de Software**.
+Atualmente trabalho como **Técnico de Informática** e estou estudando para me tornar um **Quality Assurance**, estou aprofundando meus conhecimentos em **testes de software, automação, APIs, SQL**, buscando unir minha experiência com tecnologia ao meu objetivo de atuar profissionalmente como QA**.
 
 Também estou estudando **inglês** para ampliar minhas oportunidades profissionais e poder trabalhar em ambientes internacionais.
 
